@@ -1,0 +1,6 @@
+Inertia 1: Offset 172, Length 5 @ 13E02210/13E02430 (13E022BC)
+Inertia 2: Offset 266, Length 5 @ 13673A50/13673C9D (13673B5A)
+Inertia 3: Offset 249, Length 5 @ 13D83010/13D83256 (13D83109)
+Inertia 4: Offset 347, Length 5 @ 13D83B1D/13D83E3D (13D83C78)
+Inertia 5: Offset 348, Length 5 @ 13D38801/13D38ACE (13D3895D)
+Inertia 6: Offset 58, Length 5 @ 1366C4D0/1366C760 (1366C50A)

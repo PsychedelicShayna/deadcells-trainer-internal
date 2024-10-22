@@ -1,0 +1,23 @@
+* Most Enjoyment Derived & My General Experience With It
+  - Adept         AutoHotkey
+  - Adept         Batch
+  - Adept         C#
+  - Adept         C/C++
+  - Adept         JavaScript
+  - Apprentice    GLSL
+  - Apprentice    Java
+  - Apprentice    Lua
+  - Apprentice    MelScript
+  - Apprentice    Objective-C
+  - Apprentice    PowerShell
+  - Apprentice    Python
+  - Apprentice    VB.NET
+  - Apprentice    VBA
+  - Novice        Matlab
+  - Novice        Pascal
+  - Novice        Perl
+  - Novice        SQL
+  - Novice        Wolfram Language
+
+:N      :P          :A     :E      :M      :L
+Novice, Apprentice, Adept, Expert, Master, Legendary
